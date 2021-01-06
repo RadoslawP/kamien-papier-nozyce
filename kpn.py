@@ -41,3 +41,5 @@ if zwyciezca=='Remis':
 	print('Obaj wybralismy', wybor_komputera+', zagraj ponownie.')
 else:
 	print('Wygral', zwyciezca)
+
+#Milej gry: =R=
