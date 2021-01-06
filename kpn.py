@@ -11,4 +11,5 @@ elif liczba==1:
 else:
 	wybor_komputera='nozyce'
 
-print ("Komputer wybral: ", wybor_komputera)
+wybor_uzytkownika=input('Kamien, papier czy nozyce? ')
+print ("Wybrales "+wybor_uzytkownika+ ", a komputer wybral "+wybor_komputera+"!")
